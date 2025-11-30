@@ -1,0 +1,9 @@
+{
+  "name": "Maxco Repair AI",
+  "description": "The ultimate mobile repair assistant featuring schematics analysis, firmware finder, and AI-powered diagnostics.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
